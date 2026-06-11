@@ -9,7 +9,7 @@
 | รายการ | ข้อมูลของฉัน |
 |---|---|
 | Name | มิน |
-| Nickname | เบนจามิน ไชยฎทธิ์|
+| Nickname | เบนจามิน ไชยฤทธิ์|
 | Program | Software Engineering, RMUTL |
 | Background | |
 | Interest | Web / Mobile / AI / Game / IoT / Data / UX/UI / ยังไม่แน่ใจ |
