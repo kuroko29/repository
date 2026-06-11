@@ -46,28 +46,28 @@ Day 04: AI, Web Technology and Network
 
 | Lab | What I Learned | Status |
 |---|---|---|
-| Pass / Fail | | ☐ |
-| Grade Calculator | | ☐ |
-| Average Score | | ☐ |
-| Loop Practice | | ☐ |
+| Pass / Fail | | ✅ |
+| Grade Calculator | | ✅ |
+| Average Score | | ✅ |
+| Loop Practice | | ✅ |
 
 ---
 
 ## 🤖 AI Usage Note
 
 ### วันนี้ฉันใช้ AI ช่วยเรื่องอะไร
-- 
+- ใช้เอไอช่วย ตรวจคำผิดเเละจัดเลรยงไวยากร หาขอมูลเรื่องที่ไม่รู้อีกหลายอย่าง เจนรูป
 
 ### Prompt ที่ฉันใช้
 ```text
-
+ผมอยากได้รูปติดนัตร ใส่สูท พื้นหลังสีฟ้า
 ```
 
 ### ฉันตรวจสอบคำตอบของ AI อย่างไร
-- 
+- อ่าน
 
 ### สิ่งที่ฉันยังต้องเรียนรู้เอง
-- 
+- การวิเคราะที่ลึกเเละแคบกว่านี้
 
 ---
 
@@ -75,10 +75,10 @@ Day 04: AI, Web Technology and Network
 
 | Tool | Used for | Confidence |
 |---|---|---|
-| VS Code | แก้ไข README.md | ⭐ |
+| VS Code | แก้ไข README.md | ⭐⭐⭐ |
 | Command Prompt | ใช้ Git command | ⭐ |
-| Git | บันทึก commit | ⭐ |
-| GitHub | แสดง portfolio ออนไลน์ | ⭐ |
+| Git | บันทึก commit | ⭐⭐⭐⭐ |
+| GitHub | แสดง portfolio ออนไลน์ | ⭐⭐ |
 | Markdown | จัดรูปแบบ README | ⭐ |
 
 ---
@@ -99,42 +99,42 @@ git push -u origin main
 
 | รายการ | สถานะ |
 |---|---|
-| สร้าง GitHub account ได้ | ☐ |
-| สร้าง repository ได้ | ☐ |
-| สร้าง README.md ได้ | ☐ |
-| ใช้ Markdown ได้ | ☐ |
-| commit งานแรกได้ | ☐ |
-| push ขึ้น GitHub ได้ | ☐ |
-| เปิด repository แล้วเห็น README ได้ | ☐ |
-| มีเป้าหมายการเรียนต่อ | ☐ |
+| สร้าง GitHub account ได้ | ✅ |
+| สร้าง repository ได้ | ✅ |
+| สร้าง README.md ได้ | ✅ |
+| ใช้ Markdown ได้ | ✅ |
+| commit งานแรกได้ | ✅ |
+| push ขึ้น GitHub ได้ | ✅ |
+| เปิด repository แล้วเห็น README ได้ | ✅ |
+| มีเป้าหมายการเรียนต่อ | ✅ |
 
 ---
 
 ## 🌱 My Learning Goals
 
 ### เป้าหมายใน 1 สัปดาห์
-- 
+- ปรับตัวในการใช้ชิวิต การจัดเวลา มองหาเวลาว่างเพือว่างเเผนชีวิต
 
 ### เป้าหมายใน 1 เดือนแรก
-- 
+- ว่างแผนจัดเวลา
 
 ---
 
 ## 💬 Reflection
 
 ### สิ่งที่ฉันได้เรียนรู้มากที่สุด
-- 
+- การวิเคราะเเละการสร้างคิดที่เป็นระบบ
 
 ### เรื่องที่ยังไม่เข้าใจ
-- 
+- การจัดเก็บขอมูล
 
 ### สิ่งที่ฉันจะฝึกต่อ
-- 
+- การใช้เครื่องมื
 
 ---
 
 ## 🔗 Repository Link
 
 ```text
-https://github.com/USERNAME/se-bootcamp-portfolio
+https://github.com/kuroko29/se-bootcamp-portfolio
 ```
