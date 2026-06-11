@@ -23,23 +23,22 @@
 
 ---
 
-## 📚 What I Learned
+📚 What I Learned
+Day 01: Digital Foundation
 
-### Day 01: Digital Foundation
-- 
+เรียนรู้พื้นฐานระบบดิจิทัล โครงสร้างการทำงานของคอมพิวเตอร์ และการแปลงระบบเลขฐาน (เช่น เลขฐานสอง ฐานสิบ ฐานสิบหก) ซึ่งเป็นหัวใจสำคัญของการประมวลผลในคอมพิวเตอร์
 
-### Day 02: Logic & Flowgorithm Lab 1
-- 
+Day 02: Logic & Flowgorithm Lab 1
 
-### Day 03: Flowgorithm Lab 2–3
-- 
+ฝึกฝนตรรกะการคิดอย่างเป็นระบบ (Logic) และเริ่มต้นใช้โปรแกรม Flowgorithm เพื่อจำลองการทำงานของอัลกอริทึมผ่านผังงาน (Flowchart) เบื้องต้น เช่น การรับค่า การคำนวณ และการแสดงผล
 
-### Day 04: AI, Web Technology and Network
-- 
+Day 03: Flowgorithm Lab 2–3
 
-### Day 05: GitHub and Developer Tools
-- 
+พัฒนาทักษะการเขียนผังงานในระดับที่ซับซ้อนขึ้น เน้นการใช้เงื่อนไขเพื่อตัดสินใจ (If-Else) และการสร้างตรรกะแบบวนซ้ำ (Looping เช่น Do, While, For) เพื่อแก้โจทย์ปัญหาที่มีเงื่อนไขหลากหลาย
 
+Day 04: AI, Web Technology and Network
+
+ทำความเข้าใจภาพรวมของเทคโนโลยีสมัยใหม่ ตั้งแต่การประยุกต์ใช้ AI ในการทำงาน, โครงสร้างพื้นฐานของเว็บไซต์ (Web Technology) ไปจนถึงระบบเครือข่ายและการสื่อสารข้อมูล (Network) ที่เชื่อมต่อโลกดิจิทัลเข้าด้วยกัน
 ---
 
 ## 🧪 My Flowgorithm Labs
