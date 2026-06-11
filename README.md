@@ -11,15 +11,15 @@
 | Name | มิน |
 | Nickname | เบนจามิน ไชยฤทธิ์|
 | Program | Software Engineering, RMUTL |
-| Background | |
 | Interest | Web / Mobile / AI / Game / IoT / Data / UX/UI / ยังไม่แน่ใจ |
-| Goal | |
+| Goal | -|
 
 ---
 
 ## 🎯 Why I Study Software Engineering
 
 เขียนสั้น ๆ ว่าทำไมถึงสนใจเรียนวิศวกรรมซอฟต์แวร์
+ไม่รู้สิครับ ชื่อสาขาเเเปรกใหม่ดี หน้าสนใจจจ
 
 ---
 
