@@ -136,5 +136,5 @@ git push -u origin main
 ## 🔗 Repository Link
 
 ```text
-https://github.com/kuroko29/se-bootcamp-portfolio
+https://github.com/kuroko29/repository.git
 ```
