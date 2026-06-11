@@ -8,7 +8,7 @@
 
 | รายการ | ข้อมูลของฉัน |
 |---|---|
-| Name | |
+| Name | มิน|
 | Nickname | |
 | Program | Software Engineering, RMUTL |
 | Background | |
